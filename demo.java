@@ -1,4 +1,5 @@
-public class dummy{
-  public static void main([string[] args){
-    System.out.println("hii hello");
-  }
+public class Dummy {
+    public static void main(String[] args) {
+        System.out.println("hii hello");
+    }
+}
